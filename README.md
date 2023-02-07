@@ -2,6 +2,13 @@
 
 ### [Feladat 0323](https://szit.hu/doku.php?id=oktatas:programozas:feladatok:altalanos#feladat_0323) - BMI kalkulátor
 
+
+```
+npm install
+npm install bootstrap bootstrap-icons
+ng serve -o
+```
+
 ## A pontozás szempontjai
 
 • A projekt elnevezése megfelelő. :white_check_mark:
