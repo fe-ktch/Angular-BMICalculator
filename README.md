@@ -1,27 +1,37 @@
-# Testomin
+# DOLGOZAT 4
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+### [Feladat 0323](https://szit.hu/doku.php?id=oktatas:programozas:feladatok:altalanos#feladat_0323) - BMI kalkulátor
 
-## Development server
+## A pontozás szempontjai
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+• A projekt elnevezése megfelelő. :white_check_mark:
 
-## Code scaffolding
+• Van routing, az be van állítva. :white_check_mark:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+• SCSS-t használ a projekt. :white_check_mark:
 
-## Build
+• Kettőnél több commit van. :white_check_mark:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+• A böngészőben kiíratva is megjelenik a neve, a készítés dátuma, és az
 
-## Running unit tests
+osztály. :white_check_mark:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+• Minden forrásfájlban van fejléc az alábbiak szerint :white_check_mark:
 
-## Running end-to-end tests
+- [szit.hu/dolgozat_kovetelmenyek](https://szit.hu/int/doku.php?id=kuelker:dolgozat_koevetelmenyek)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+• A számítást igénylő feladatrész függvényben. :white_check_mark:
 
-## Further help
+• Navigációs sávot használ. :white_check_mark:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+• Reaktív űrlapot használ. :white_check_mark:
+
+• Gombra kattintva működik. :white_check_mark:
+
+• Enterre működik. :white_check_mark:
+
+• Az eredmény egy rejtett beviteli-mezőben jelenik meg. :white_check_mark:
+
+#
+
+     Sangare Fantha Felisha | SZOFT II N | 2023-01-04
