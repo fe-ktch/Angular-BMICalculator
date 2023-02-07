@@ -10,7 +10,7 @@ export class GithubComponent implements OnInit {
 
   clipboardCheckedVisible = false;
   clipboardVisible = true;
-  message = new FormControl('https://github.com/fe-ktch/Angular-Testomin.git');
+  message = new FormControl('git clone https://github.com/fe-ktch/Angular-BMICalculator.git');
 
   constructor() { }
 

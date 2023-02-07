@@ -7,7 +7,7 @@ import { TestominComponent } from './testomin/testomin.component';
 const routes: Routes = [
   {path: 'about', component: AboutComponent},
   {path: 'github', component: GithubComponent},
-  {path: 'calculator', component: TestominComponent }
+  {path: '', component: TestominComponent }
 ];  
 
 
